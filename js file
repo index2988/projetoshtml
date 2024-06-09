@@ -1,0 +1,6 @@
+function adicionarchars(campo, info){
+    document.getElementById(campo).innerHTML  += " " + info; 
+}
+window.onload = function() {
+    adicionarchars('fullname', 'Henzo Lucas Silva Merval Costa');
+};
