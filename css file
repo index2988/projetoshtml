@@ -1,0 +1,17 @@
+.titulo {
+text-align: center;
+background-color: burlywood
+}
+
+.campos{
+background-color: rgb(109, 240, 198);
+font-size: large;}
+
+.pagina{
+background-color: burlywood;}
+
+.botao{
+    border: 1px solid #333333;
+    width: 5%;
+    font-size: 23px 23px;
+}
