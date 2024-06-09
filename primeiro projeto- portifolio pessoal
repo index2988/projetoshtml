@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <html lang="pt-br">
+    <!--all the other elements go here-->
+    <title>Primeiro projeto: Portifolio pessoal</title>
+    <meta charset="utf-8">
+    <link href="titulo {.css" rel="stylesheet">
+    <script src="Untitled-2.js"></script>
+</head>
+<body>
+    <div>
+    <h1 class="titulo">Curriculum Vitae</h1>
+</div>
+<div class="pagina">
+    <h1 class="campos" id="fullname" >Nome e sobrenome: </h1>
+    <h1 class="campos">Data de nascimento </h1>
+    <h1 class="campos">Formacao: </h1>
+    <h1 class="campos">Tecnologias Dominadas: </h1>
+    <h1 class="campos">Instituicao de ensino superior: </h1>
+    <h1 class="campos">Empresas em que ja trabalhou: </h1>
+    <h1 class="campos">Perfil Github: <a href="https://github.com"><button class="botao" value="Ir ate a pagina">Ir</button></a> </h1>
+    <h2></h2>
+</div>
+</body>
+</html>
